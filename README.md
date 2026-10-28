@@ -10,6 +10,8 @@ The current `DO-PIXEL-BOT.js` copy defaults to PinkGalaxy launch mode. Run it in
 
 Gameplay automation is intentionally paused: the existing DarkOrbit navigation, loot, repair, reconnect, ship, and PET recognition has not been calibrated for PinkGalaxy. The XDream power icon exits the game and is not used as a ship stop control.
 
+For Botfather, download and extract the [complete PinkGalaxy package](./PGBOT-PinkGalaxy-1.2.1.zip). Keep the extracted `templates` directory beside `DO-PIXEL-BOT.js`.
+
 ## How to run this bot script?
 
 - Download this repository and extract it
